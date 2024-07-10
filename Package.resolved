@@ -1,0 +1,15 @@
+{
+  "originHash" : "fc6fe6bfa7da107dbcf41a7410da2ffe87c30c660f380ef3187877da7b5ddd26",
+  "pins" : [
+    {
+      "identity" : "e5data",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mr-elbe5/E5Data",
+      "state" : {
+        "revision" : "c1a53b09b7750a1ba6b1356ca9342ab2d531f45e",
+        "version" : "1.0.26"
+      }
+    }
+  ],
+  "version" : 3
+}
